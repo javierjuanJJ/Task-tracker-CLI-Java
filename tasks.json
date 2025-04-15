@@ -1,0 +1,23 @@
+[
+  {
+    "createdAt": "Tue Apr 15 20:19:34 CEST 2025",
+    "description": "Tarea 1",
+    "id": 1,
+    "updatedAt": "Tue Apr 15 20:19:34 CEST 2025",
+    "status": "todo"
+  },
+  {
+    "createdAt": "Tue Apr 15 20:19:37 CEST 2025",
+    "description": "Tarea 1",
+    "id": 2,
+    "updatedAt": "Tue Apr 15 20:19:37 CEST 2025",
+    "status": "todo"
+  },
+  {
+    "createdAt": "Tue Apr 15 20:19:40 CEST 2025",
+    "description": "Tarea 1",
+    "id": 3,
+    "updatedAt": "Tue Apr 15 20:19:40 CEST 2025",
+    "status": "todo"
+  }
+]
